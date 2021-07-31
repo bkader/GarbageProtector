@@ -18,6 +18,6 @@ For example, ElvUI has a feature to run a garbage collection manually by clickin
 1. [Download the package](https://github.com/bkader/GarbageProtector/archive/refs/heads/main.zip).
 2. Unpack the Zip file.
 3. Open the folder `GarbageProtector-main`.
-4. Copy (or drag and drop) **!!!GarbageProtector** folder into you `Wow-Directory\Interface\AddOns`.
+4. Copy (or drag and drop) **!!!GarbageProtector** folder into your `Wow-Directory\Interface\AddOns`.
 5. Restart WoW
 6. Enjoy!
