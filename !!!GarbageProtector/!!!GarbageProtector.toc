@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: GarbageProtector
+## Notes: Intercepts irresponsible collectgarbage calls to prevent chunky lockups and freezes
+## Author: Alex Folland, Kader B
+## SavedVariables: GarbageProtectorDB
+
+Localization.lua
+GarbageProtector.lua
