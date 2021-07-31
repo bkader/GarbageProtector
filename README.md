@@ -12,3 +12,12 @@ Warning: Due to the nature of the 2 hooks GarbageProtector implements, unless th
 
 
 For example, ElvUI has a feature to run a garbage collection manually by clicking somewhere. This is prevented by GarbageProtector because it is an irresponsible use of collectgarbage which locks up your game (which if run automatically like some addons do, is not nice to the user). However, if you really want to run it, you can toggle GarbageProtector's option with "/gp collectgarbage" or from the GUI options menu. That's why options were added in the first place: so you can choose what you want to do.
+
+## How to install
+
+1. [Download the package](https://github.com/bkader/GarbageProtector/archive/refs/heads/main.zip).
+2. Unpack the Zip file.
+3. Open the folder `GarbageProtector-main`.
+4. Copy (or drag and drop) **!!!GarbageProtector** folder into you `Wow-Directory\Interface\AddOns`.
+5. Restart WoW
+6. Enjoy!
